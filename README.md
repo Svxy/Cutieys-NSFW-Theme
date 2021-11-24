@@ -24,6 +24,6 @@ Next after you've enabled those and whichever other plugins you want, click on t
 
 Showcase:
 
-![Showcase1]()
+![Showcase1](https://github.com/Svxy/Cutieys-NSFW-Theme/blob/main/showcase/showcase3.png?raw=true)
 
-![Showcase2]()
+![Showcase2](https://github.com/Svxy/Cutieys-NSFW-Theme/blob/main/showcase/showcase4.png?raw=true)
